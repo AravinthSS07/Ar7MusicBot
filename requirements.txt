@@ -1,0 +1,7 @@
+discord.py
+asyncio
+python-dotenv
+flask
+youtube_dl
+pynacl
+ffmpeg
